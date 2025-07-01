@@ -6,7 +6,7 @@
 
 ![mactop](screenshotm.png)
 
-## Compatibility
+## Compatibility(important)
 
 - Apple Silicon Only (ARM64)
 - macOS Monterey 12.3+
